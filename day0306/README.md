@@ -6,14 +6,10 @@ I live around the area, and therefore most probably I wont be able to post quest
 but this should not affect or hit your streak of solving problems,so I will be posting problems for the next two days.
 
 LeetCode Problems
-1) Code 413
-2) Code 1277
-3) Code 740
-
-4) Code 357
-5) Code 5
-6) Code 64
-7) Both day's June challenge
+- [x] Code 413
+- [x] Code 1277
+- [x] Code 740
+- [x] Both day's June challenge
 
 The reading material is not yet planned as I have decided to switch to DBMS and these kind of shifts would be regular as
  I dont want anyone to get bored with just one subject.
