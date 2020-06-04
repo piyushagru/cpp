@@ -4,13 +4,13 @@ Previous days solutions are as usual on my GitHub.
 
 Today's task:
 LeetCode Problems
-1) Problem code 91
-2) Problem code 1262
-3) Problem code 221
-4) June leetcode challenge
+- [x] Problem code 91
+- [x] Problem code 1262
+- [x] Problem code 221
+- [x] June leetcode challenge
 
 Reading task:
-Computer networking articles 16-19 from Geeksforgeeks.
+- [ ] Computer networking articles 16-19 from Geeksforgeeks.
 
 You can find the links to the solution and the reading material in the comments section.
 
