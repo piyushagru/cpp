@@ -3,13 +3,13 @@ Today is going to be "Random Problem" day.
 
 Today's task:
 LeetCode Problems
-1) Problem code 15
-2) Problem code 445
-3) Problem code 1227
-4) May leetcode challenge
+- [x] Problem code 15
+- [x] Problem code 445
+- [x] Problem code 1227
+- [x] May leetcode challenge
 
 Reading task:
-Computer networking articles 13-15 from Geeksforgeeks.
+- [ ] Computer networking articles 13-15 from Geeksforgeeks.
 
 Link to my GitHub:
 https://github.com/sanchitgoel10
