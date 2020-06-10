@@ -3,7 +3,7 @@ Previous days solutions are as usual on my GitHub.
 
 Today's task:
 LeetCode Problems
-- [ ] Problem code 198
+- [x] Problem code 198
 - [ ] Problem code 392
 - [ ] Problem code 121
 - [x] June leetcode challenge

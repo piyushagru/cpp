@@ -1,6 +1,6 @@
 #Day7
 
-- [ ] Code 357
+- [x] Code 357
 - [x] Code 5
 - [x] Code 64
 - [x] Both day's June challenge

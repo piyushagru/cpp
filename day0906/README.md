@@ -1,12 +1,12 @@
-#Day11
+#Day12
 Previous days solutions are as usual on my GitHub.
-Lets play with arrays today part 2
+Random Problems
 
 Today's task:
 LeetCode Problems
-- [ ] Problem code 53
-- [ ] Problem code 1232
-- [ ] Problem code 118
+- [x] Problem code 698
+- [ ] Problem code 278
+- [ ] Problem code 139
 - [x] June leetcode challenge
 
 Reading task:
