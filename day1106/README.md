@@ -1,11 +1,12 @@
-#Day8
+#Day14
 Previous days solutions are as usual on my GitHub.
+Problem on trees
 
 Today's task:
 LeetCode Problems
-- [x] Problem code 198
-- [x] Problem code 392
-- [x] Problem code 121
+- [ ] Problem code 98
+- [ ] Problem code 1339
+- [ ] Problem code 1367
 - [x] June leetcode challenge
 
 Reading task:
