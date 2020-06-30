@@ -6,7 +6,7 @@ Today's task:
 LeetCode Problems
 - [x] Problem code 15
 - [ ] Problem code 1465
-- [ ] Problem code 1386
+- [x] Problem code 1386
 - [x] June leetcode challenge
 
 Reading task:
