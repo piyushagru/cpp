@@ -22,7 +22,6 @@ public:
         if(cache.find(key) != cache.end()){
             keys.erase(cache[key].second);
             keys.push_front(key);
-            // cache[key].second = keys.begin();
             cache[key] = {value,keys.begin()};
         }
         else{
